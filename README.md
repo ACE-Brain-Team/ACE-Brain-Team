@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, we are ACE-Brain Team in ACE Robotics. We are constantly looking for passionate talents (both interns and full-time) who are passionate about embodied AI. Whether you are looking to start your journey or take the next leap, email houzhi1@acerobotics.com to join us. Let's build the next-generation generalist embodied brain together!
 
 <!--
 **ACE-Brain-Team/ACE-Brain-Team** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
